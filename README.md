@@ -12,6 +12,7 @@ Population Surveys conducted by the U.S. Census Bureau. The aim of the project i
 1. **Report**: Contains the final report and the deliverable
 2. **classification_model.ipynb**: Jupyter Notebook containing the code for classification model experiments and the final model
 3. **segmentation_model.ipynb**: Jupyter Notebook containing the code for the segmentation model and its experiments. Also creates part of the final report
+4. **requirements.txt**: The file contains the list of important packages that were used during the assessment.
 
 ## Data:
 
