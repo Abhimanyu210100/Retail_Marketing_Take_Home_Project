@@ -38,7 +38,7 @@ jupyter notebook classification_model.ipynb
 This command will run the classification model notebook that has all the experiments uncommented for ease of review. After the models have been run, the model that was decided to be the best (ensemble of 10 random forest and 10 catboost models) will be saved in the **models** folder.
 
 
-#### 2. Customer Segmentation
+#### 3. Customer Segmentation
 ```bash
 # Run the segmentation notebook
 jupyter notebook segmentation_model.ipynb
