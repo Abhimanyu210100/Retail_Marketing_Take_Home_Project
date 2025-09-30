@@ -7,14 +7,21 @@ Population Surveys conducted by the U.S. Census Bureau. The aim of the project i
 1. **Classification**: Predicting weather the salary is greater than 50K or not
 2. **Segmentation**: Segmenting the data into clusters that can be used for marketting purposes 
 
+## Important Files and Folders:
+
+1. **Report**: Contains the final report and the deliverable
+2. **classification_model.ipynb**: Jupyter Notebook containing the code for classification model experiments and the final model
+3. **segmentation_model.ipynb**: Jupyter Notebook containing the code for the segmentation model and its experiments. Also creates part of the final report
+
 ## Data:
 
 The data needs to be added to the folder **data**
+```
 |-- data/
     |-- census-bureau.columns
     |
     --- census-bureau.data
-
+```
 
 ## Execution Instructions:
 
